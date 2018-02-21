@@ -16,11 +16,11 @@ A multi proxy server that can make several servers in each different domain act 
 
 It forwards request for processing API calls to servers that don't send CORS headers or support HTTPS.
 
-## install
+## install & run
 
-```sh
-npm install multi-proxy-server
-```
+download or clone
+cd your-dir-to-multi-proxy-server/
+node ./server.js
 
 ## Notice
 
