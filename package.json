@@ -1,0 +1,13 @@
+{
+  "name": "lessu.multi-proxy-server",
+  "version": "1.0.0",
+  "description": "A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.",
+  "main": "server.js",
+  "author": "lessu <lessu@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.40.0",
+    "tokenthrottle": "1.1.0",
+    "public-address": "^0.1.1"
+  }
+}
