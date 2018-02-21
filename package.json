@@ -1,6 +1,6 @@
 {
-  "name": "lessu.multi-proxy-server",
-  "version": "1.0.0",
+  "name": "multi-proxy-server",
+  "version": "1.0.1",
   "description": "A simple forward proxy server for processing API calls to servers that don't send CORS headers or support HTTPS.",
   "main": "server.js",
   "author": "lessu <lessu@163.com>",
